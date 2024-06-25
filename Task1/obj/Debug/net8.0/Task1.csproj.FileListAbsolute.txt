@@ -27,3 +27,4 @@ C:\Users\Edu\C#\Лекция 1 Знакомство с С#\Task1\obj\Debug\net8.
 C:\Users\Edu\C#\Лекция 1 Знакомство с С#\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Edu\C#\Лекция 1 Знакомство с С#\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Edu\C#\Лекция 1 Знакомство с С#\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Edu\C#\Лекция 1 Знакомство с С#\Task1\obj\Debug\net8.0\Task1.sourcelink.json
